@@ -1,15 +1,1 @@
-<html>
-<head>
-</head>
-<body>
-	<div style="color:red">
-	<h1>23电商1班</h1></div>
-	<div>祝23电商班所有同学，八方来财，财源广进，学习进步</br>
-	祝你们身体健康，万事如意</br>
-	喜提法拉利，帕拉梅拉，梅赛德斯奔驰，劳斯莱斯……………………………………</br>
-	祝你们男生永远帅气，女生永远漂亮！</br>
-	祝你所有人梦想成真！
-	</div>
-	
-</body>
-</html>
+#https://github.com/wxywxywxywxy1/dianshang.github.io.git
